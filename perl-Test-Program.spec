@@ -45,3 +45,18 @@ rm -rf %buildroot
 %{_mandir}/man3/*
 %perl_vendorlib/*
 
+
+
+%changelog
+* Mon Apr 25 2011 Funda Wang <fwang@mandriva.org> 0.10-2mdv2011.0
++ Revision: 658454
+- rebuild for updates rpm-setup
+
+* Sat May 23 2009 Guillaume Rousse <guillomovitch@mandriva.org> 0.10-1mdv2010.0
++ Revision: 378932
+- import perl-Test-Program
+
+
+* Sat May 23 2009 cpan2dist 0.10-1mdv
+- initial mdv release, generated with cpan2dist
+
