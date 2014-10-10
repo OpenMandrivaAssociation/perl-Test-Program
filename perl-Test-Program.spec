@@ -1,6 +1,6 @@
 %define module   Test-Program
 %define version    0.10
-%define release    %mkrel 2
+%define release    3
 
 Name:       perl-%{module}
 Version:    %{version}
