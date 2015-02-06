@@ -1,6 +1,6 @@
 %define module   Test-Program
 %define version    0.10
-%define release    3
+%define release    4
 
 Name:       perl-%{module}
 Version:    %{version}
