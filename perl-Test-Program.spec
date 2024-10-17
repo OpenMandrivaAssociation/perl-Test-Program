@@ -8,7 +8,7 @@ Release:    %{release}
 License:    GPL or Artistic
 Group:      Development/Perl
 Summary:    Testing tools for Perl programs
-Url:        http://search.cpan.org/dist/%{module}
+Url:        https://search.cpan.org/dist/%{module}
 Source:     http://www.cpan.org/modules/by-module/Test/%{module}-%{version}.tar.gz
 BuildRequires: perl-devel
 BuildRequires: perl(Exporter)
