@@ -10,6 +10,7 @@ Group:      Development/Perl
 Summary:    Testing tools for Perl programs
 Url:        https://search.cpan.org/dist/%{module}
 Source:     http://www.cpan.org/modules/by-module/Test/%{module}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires: perl-devel
 BuildRequires: perl(Exporter)
 BuildRequires: perl(Test::Builder::Tester)
